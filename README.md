@@ -1,5 +1,6 @@
 # CurrencyConverter
 ## A simple python GUI/WebScrapper Currency converter
+A simple python GUI/WebScrapper made with python using the libraries BeaultifulSoup, Requests and Tkinter.
 ## Images
 
 ![Captura de tela_2020-07-03_09-11-46.png](https://github.com/smokedy/CurrencyConverter/blob/master/Images/Captura%20de%20tela_2020-07-03_09-11-46.png) 
