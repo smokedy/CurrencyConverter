@@ -11,7 +11,7 @@
 ## installation
 to run it correctly you'll need BeautifulSoup and requests libraries. You can install all of that by just typing:
 ```
-git clone https://github.com/smokedy/CurrencyConverter/edit/master/README.md
+git clone https://github.com/smokedy/CurrencyConverter
 cd CurrencyConverter/
 sudo pip install -r requirements.txt
 ```
