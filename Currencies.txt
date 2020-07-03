@@ -1,0 +1,11 @@
+brl
+usd
+eur
+gbp
+jpy
+aoa
+sar
+aud
+cad
+cup
+chf
